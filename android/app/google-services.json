@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81855619560",
+    "project_id": "mindspace-shahbaz",
+    "storage_bucket": "mindspace-shahbaz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81855619560:android:422934b47b09b11275c45d",
+        "android_client_info": {
+          "package_name": "com.example.first_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81855619560-mth2gf32u4el3vja141tfqh5epj69nf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs0r6Ur0c92e4mm7Hke2iODWj05vNtV8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81855619560-mth2gf32u4el3vja141tfqh5epj69nf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
